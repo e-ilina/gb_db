@@ -1,2 +1,2 @@
-# gb_db
+# gbdb
 geek brains database 
